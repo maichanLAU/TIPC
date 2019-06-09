@@ -1,4 +1,5 @@
-# TIPC
+# TIPC: Tumor-Immune Partitioning and Clustering
+An R package for unsupervised characterization of immune cells in tumor microenvirontment.
 
 ``` R
 library(devtools)
