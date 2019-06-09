@@ -1,6 +1,7 @@
 # TIPC
 
-```library(devtools)
+``` R
+library(devtools)
 
 devtools::install_github("maichanLAU/TIPC")
 
