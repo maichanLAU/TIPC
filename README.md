@@ -1,9 +1,9 @@
 # TIPC
 
-rm(list=ls())
+library(devtools)
 devtools::install_github("maichanLAU/TIPC")
 library(TIPC)
-help(package = "TIPC")
+?TIPC
 
 #### step 0: set TIPC result output directory
 root_dir <- "C:/Users/Mai Chan Lau/Desktop/TIPC_package/test_run"
